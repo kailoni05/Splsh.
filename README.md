@@ -37,7 +37,12 @@ zusätzlich als Lesezeichen speichern.
 - Der Repositoryname ist frei wählbar. Die Dateinamen und Unterordner im Paket beibehalten.
 - Bei späteren Updates den Inhalt des neuen Upload-Pakets ins gleiche Repository hochladen.
 
-Stand: Version 4 mit 1.298 Quizfragen und Fragevarianten. Die Website wurde lokal
+Stand: Version 5.1 mit ausschliesslich deiner neuen Quizliste: 4.000 Einträge mit
+1.368 verschiedenen Fragetexten über alle Altersgruppen. Antwortpositionen sind
+zufällig und ausgewogen verteilt. Bet Buddy bestätigt das erreichte Ziel automatisch.
+Auswahlmenüs sind deckend und die mobile Spielauswahl hat korrigierte Rundungen.
+Beim Zurückkehren aus einem Spiel bleiben Spielkarte und Auswahlleiste synchron.
+Die Website wurde lokal
 geprüft; das Hochladen und Aktivieren von Pages erfolgt erst durch dich.
 
 Offizielle Anleitungen: [Dateien hochladen](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)
