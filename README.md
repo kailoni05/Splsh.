@@ -37,13 +37,14 @@ zusätzlich als Lesezeichen speichern.
 - Der Repositoryname ist frei wählbar. Die Dateinamen und Unterordner im Paket beibehalten.
 - Bei späteren Updates den Inhalt des neuen Upload-Pakets ins gleiche Repository hochladen.
 
-Stand: Version 6 mit beiden gelieferten Quizlisten: 17.000 Einträge mit
+Stand: Version 6.1 mit beiden gelieferten Quizlisten: 17.000 Einträge mit
 14.278 verschiedenen Fragetexten über alle Altersgruppen. Die ergänzte Datei
 liefert 13.000 Fragen für 13 Kategorien, je 250 pro Kategorie und Altersgruppe.
 Antwortpositionen sind
 zufällig und ausgewogen verteilt. Bet Buddy bestätigt das erreichte Ziel automatisch.
 Auswahlmenüs sind deckend und die mobile Spielauswahl hat korrigierte Rundungen.
 Beim Zurückkehren aus einem Spiel bleiben Spielkarte und Auswahlleiste synchron.
+Die Nummern vor den Tiervergleich- und Sportduell-Fragen werden ausgeblendet.
 Die Website wurde lokal
 geprüft; das Hochladen und Aktivieren von Pages erfolgt erst durch dich.
 
