@@ -10,7 +10,7 @@ Du brauchst keine Installation und keinen laufenden PC. Die Besucher benötigen 
    Aktiviere beim Erstellen **Add a README file**, damit der Branch `main` vorhanden ist.
 3. Im Repository **Add file → Upload files** öffnen.
 4. **Den gesamten Inhalt dieses entpackten Ordners** hineinziehen: `index.html`,
-   `assets`, `fonts`, die Bilder und alle weiteren Dateien. Nicht die ZIP und nicht
+   `assets`, `avatars`, `fonts`, `quiz`, die Bilder und alle weiteren Dateien. Nicht die ZIP und nicht
    den übergeordneten Ordner hochladen. `index.html` muss direkt oben im Repository liegen.
 5. Mit **Commit changes** auf `main` speichern. Falls GitHub stattdessen einen
    Änderungsvorschlag anlegt, diesen anschliessend in `main` übernehmen.
@@ -37,16 +37,8 @@ zusätzlich als Lesezeichen speichern.
 - Der Repositoryname ist frei wählbar. Die Dateinamen und Unterordner im Paket beibehalten.
 - Bei späteren Updates den Inhalt des neuen Upload-Pakets ins gleiche Repository hochladen.
 
-Stand: Version 6.2 mit beiden gelieferten Quizlisten: 17.000 Einträge mit
-14.278 verschiedenen Fragetexten über alle Altersgruppen. Die ergänzte Datei
-liefert 13.000 Fragen für 13 Kategorien, je 250 pro Kategorie und Altersgruppe.
-Antwortpositionen sind
-zufällig und ausgewogen verteilt. Bet Buddy bestätigt das erreichte Ziel automatisch.
-Auswahlmenüs sind deckend und die mobile Spielauswahl hat korrigierte Rundungen.
-Beim Zurückkehren aus einem Spiel bleiben Spielkarte und Auswahlleiste synchron.
-Die Vorsätze Tiervergleich und Sportduell samt Nummern werden ausgeblendet.
-Die Website wurde lokal
-geprüft; das Hochladen und Aktivieren von Pages erfolgt erst durch dich.
+In Bet Buddy spielt ihr mit zwei oder drei Zweierteams. Beide Namen erscheinen im Endstand.
+Der Ordner `quiz` enthält die Fragen der vier Altersgruppen.
 
 Offizielle Anleitungen: [Dateien hochladen](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)
 und [GitHub Pages aktivieren](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
