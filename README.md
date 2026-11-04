@@ -37,7 +37,7 @@ zusätzlich als Lesezeichen speichern.
 - Der Repositoryname ist frei wählbar. Die Dateinamen und Unterordner im Paket beibehalten.
 - Bei späteren Updates den Inhalt des neuen Upload-Pakets ins gleiche Repository hochladen.
 
-In Bet Buddy spielt ihr mit zwei oder drei Zweierteams. Beide Namen erscheinen im Endstand.
+In Bet Buddy spielt ihr mit zwei bis zehn Zweierteams. Beide Namen erscheinen im Endstand.
 Der Ordner `quiz` enthält die Fragen der vier Altersgruppen.
 
 Offizielle Anleitungen: [Dateien hochladen](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)
